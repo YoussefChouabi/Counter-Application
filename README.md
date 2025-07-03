@@ -43,7 +43,8 @@ Modify script.js to alter counter behavior (e.g., change step value)
 Update index.html to add new elements or features
 
  ##Screenshot
-https://screenshot.png (Note: You should add an actual screenshot)
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/6906ab78-c60d-425a-9805-c9da205bb6cb" />
+
 
  ## License
 MIT License - Free to use and modify
